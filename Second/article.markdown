@@ -7,7 +7,7 @@
 1. [What is Glasp]()
 2. Why use Glasp
 3. Features of Glasp
-4. Kicking the Tire
+4. Getting Started
    - Sign up
    - Glasp Chrome Extension
    - Glasp and YouTube
@@ -113,6 +113,78 @@ Glasp on YouTube helps highlight and generate your video content to text.  Video
 
 
 ## Navigating the [Glasp Website](https//:glasp.co)
+
+-   ####     The Glasp Homepage
+
+   ![Glasp Homapage](/Second/Glasp_Images/Homepage%20(2).png)
+
+   The Glasp Homepage has 
+
+          1. Your Topics where you can choose topics you have interest in.
+   ![favorites](/Second/Glasp_Images/Favorite.png)
+
+
+          2. Recomended topics for you by the Glasp algorithm
+   ![Recommended ](/Second/Glasp_Images/Recommneded.png)
+
+          3. Suggestions On who to follow
+   ![follow](/Second/Glasp_Images/Follow.png)
+      
+          4. The Glasp Search bar
+   ![search](/Second/Glasp_Images/search.png)
+
+          5.  Following,Topics and Popular topics you follow including trending discussions on Glasp
+   ![following](/Second/Glasp_Images/following.png)
+
+         6. Community Insights showcasing highlights and top highlights
+   ![community](/Second/Glasp_Images/Community.png)
+
+
+- ### The Highlights
+
+![Highlights](/Glasp_Images/)
+
+Author
+It shows highlighted writings when someone tags you as an author
+
+*Articles*
+
+*Favorite*
+
+Shows your favorite higligts and find people with same interest
+
+![Favorite](/Second/Glasp_Images/Favorite.png)
+
+*Saved* allows and shows highlight of like minds
+
+![saved](/Second/Glasp_Images/Saves.png)
+
+*Kindle* Sync and import all your notes higlight from Kindle
+
+![Kindle](/Second/Glasp_Images/Kindle.png)
+
+*Videos* Higlight Youtube videoes without transcripting manually
+
+![videos](/Second/Glasp_Images/Videos.png)
+
+*Document* Format Choose which format to download  your document as
+
+![Doc](/Second/Glasp_Images/Format.png)
+
+
+- ### Explore
+
+![Explore](/Second/Glasp_Images/Explore.png)
+
+   You can find content from the Glasp community and search for different authors and website
+
+
+
+## The Share,Notifications and Profile Button
+
+The share: 
+      
+
 
 
 
