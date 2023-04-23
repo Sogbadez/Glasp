@@ -18,6 +18,28 @@
 
 Glasp is a free web extension-based social highlighter that enables you to highlight and organize quotes, notes, and ideas from the web without switching screens, making it easy to create a library of your learning that can be shared with and accessed by people with similar interests.
 
+
+###  Why Glasp
+
+1. #### One-Click Access :
+        Glasp solves the isolation of knowledge by giving you access to highlighted world information in one click. You can copy all you need at once, adding notes on videos and other online content can be  captured quickly with colored options automatically sent to your Glasp Dashboard
+
+2. #### Storage
+        You can paste your notes into your favorite note apps, Embed them in a blog or newsletter and also download all your highlights and notes by .txt, .md, or .csv.
+
+
+3. #### Show your Learning
+         Glasp allows you to leave your digital literacy for humanity while working for yourself simultaneously. You can also keep track of your knowledge connections and grow using the knowledge graph. Quoteshots helps you share beautiful notes optimized for Twitter
+
+4. ####  Glasp works well with Youtube, Kindle, and PDF files. You can easily highlight and annotate transcripts from Youtube, Pdfs hosted online. It also allows you to highlight and import your notes
+          from Kindle. Highlights can be tagged, searched for, linked to, and shared on a variety of other platforms, including Twitter, Teams, and Slack.
+
+5. ####  Meet Like-Minds :
+          With an accumulated legacy of over thirty thousand people, and over a million highlights that allow you to connect and interact with people with the same interests.
+
+6. #### Summary
+          Al powered summary based on your highlights is also one of the features Glasp has to offer
+
 ## Kicking the Tires
 
 * ### Sign Up
@@ -25,23 +47,35 @@ Glasp is a free web extension-based social highlighter that enables you to highl
   Follow  these steps to sign up to glasp
 
 
-  1. Click on ***Sign Up*** fron the [Glasp Website](https://glasp.co)
+      1. Click on ***Sign Up*** fron the [Glasp Website](https://glasp.co)
 
-     ![](assets/20230418_104514_Sign.png)
-  2. Click on the ***Continue With Google*** button
+     ![Sign Up](/Second/Glasp_Images/sign.png)
 
-     ![](assets/20230418_104407_Google.png)
-  3. Choose an existing ***Google Account*** or a create a new account
-   4. Confirm your glasp email sign up
+       2. Click on the ***Continue With Google*** button
+
+     ![google](/Second/Glasp_Images/Google.png)
+
+       3. Choose an existing ***Google Account*** or a create a new account
+
+  ![Account](/Second/Glasp_Images/Account.png)
+
+      4. Confirm your glasp email sign up
+
+
+   ![Confirm](/Second/Glasp_Images/Confirm.png)
 
 
 * ### Glasp Chrome Extension
 
    After sign up, You get directed to the Chrome web store . Here ,you can install the Glasp Extension or follow these steps :
 
-   1. Open the Google Chrome Browser on your computer
-   2. Visit the Glasp website
-   3. Click on install on Chrome/ Add to Chrome
+       1. Open the Google Chrome Browser on your computer
+
+       2. Visit the Glasp website
+    ![website](/Second/Glasp_Images/website.png)
+
+       3. Click on install on Chrome/ Add to Chrome
+   ![add](/Second/Glasp_Images/add.png)
 
    The installation should take a few seconds to complete.Once completed and you can see the glasp icon  in the top right-hand corner of your browser
 You've successfully installed the Glasp extension on Google Chrome
@@ -50,28 +84,22 @@ You've successfully installed the Glasp extension on Google Chrome
 * ### Glasp on YouTube
 Glasp on YouTube helps highlight and generate your video content to text.  Videos can be summarized to text using a glasp transcript and summary extension.
 
-	1. Search for YouTube on your Chrome Browser
-	2. Look for a video you have an interest in
-	3. Click on Transcript and Summary to summarize your video content in text format
+	   1. Search for YouTube on your Chrome Browser
+   ![Youtube](/Second/Glasp_Images/Youtube.png)
+
+	   2. Look for a video you have an interest in
+   ![Interest](/Second/Glasp_Images/Interest.png)
+
+	   3. Click on Transcript and Summary to summarize your video content in text format
+   ![Transcript](/Second/Glasp_Images/Transcript.png)
 
 
 
-###  Why Glasp
 
-1. #### One Click Access :
-        Glasp solves isolation of knowledge by providing you with acess to highlighted world information in one click. You can copy all you need at once ,adding notes on videos and other online contents can be  captured quickly with coloured options autumatically sent to your Glasp Dashboard
-   
-2. #### Storage
-         You can paste your notes into your favorite note apps, Embed them in a blog or newsletters and also download all your highlights and notes by .txt, .md,.csv .
 
-3. #### Show your Learning 
-         Glasp allows you leave your digital literacy for humanity ,while working for yourself at the same time. You can also keep track of your knowledge connects and grow using the knowledge graph. Quoteshots helps you share beautiful notes optimized for Twitter
+## Additional Resources
 
-4. #### Integration with other platfororms
-          Glasp works well with Youtube, Kindle and PDfs files. You can easily highlight and annotate  transcripts from Youtube, Pdfs hosted online . It also allows you to highlight and import your notes 
-          from Kindle.Highlights can be tagged, searched for,linked to, and shared on a variety of oy
-	Variety of other platforms, including Twitter, Teams, and slacks,
-	Check out highlights on 
-	
+
+
 
        
