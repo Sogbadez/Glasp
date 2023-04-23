@@ -98,6 +98,21 @@ Glasp on YouTube helps highlight and generate your video content to text.  Video
 
 
 ## Additional Resources
+      Here is a list of resources to help you whiile using Glasp
+
+   *  [Articles](https://glasp.co/articles/) written by the Glasp team
+
+   *  The Glasp [Newsletter](https://glasp.co/newsletter/)
+
+   *  The [UseCase](https://glasp.co/usecase/) showing spotlight on Glaspers
+
+   * How to glasp [tutorial video](https://www.youtube.com/watch?v=Tgbszoeokv4)
+ 
+   *  Join [Glasp Community](https://glasp-community.slack.com/join/)
+
+
+
+## Navigating the [Glasp Website](https//:glasp.co)
 
 
 
