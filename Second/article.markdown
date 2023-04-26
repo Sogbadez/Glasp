@@ -40,7 +40,7 @@ Glasp is a free web extension-based social highlighter that enables you to highl
 6. #### Summary
           Al powered summary based on your highlights is also one of the features Glasp has to offer
 
-## Kicking the Tires
+## Getting Started
 
 * ### Sign Up
 
@@ -97,18 +97,6 @@ Glasp on YouTube helps highlight and generate your video content to text.  Video
 
 
 
-## Additional Resources
-      Here is a list of resources to help you whiile using Glasp
-
-   *  [Articles](https://glasp.co/articles/) written by the Glasp team
-
-   *  The Glasp [Newsletter](https://glasp.co/newsletter/)
-
-   *  The [UseCase](https://glasp.co/usecase/) showing spotlight on Glaspers
-
-   * How to glasp [tutorial video](https://www.youtube.com/watch?v=Tgbszoeokv4)
- 
-   *  Join [Glasp Community](https://glasp-community.slack.com/join/)
 
 
 
@@ -139,35 +127,44 @@ Glasp on YouTube helps highlight and generate your video content to text.  Video
          6. Community Insights showcasing highlights and top highlights
    ![community](/Second/Glasp_Images/Community.png)
 
+         7. The Share,Notification and Profile buttons
+
+            -   The notifications keep you up to date on notifications you recieve
+            -    Share allows you to invite friends using different platforms and also embed  Glasp into your 
+               blog
+            -    Profile buttons
+![profile](/Glasp_Images/profile.png)
+            
+      
 
 - ### The Highlights
 
 ![Highlights](/Glasp_Images/)
 
-Author
-It shows highlighted writings when someone tags you as an author
+1.    Author
+         It shows highlighted writings when someone tags you as an author
 
 *Articles*
 
-*Favorite*
+2. Favorites
 
-Shows your favorite higligts and find people with same interest
+      Shows your favorite higligts and find people with same interest
 
 ![Favorite](/Second/Glasp_Images/Favorite.png)
 
-*Saved* allows and shows highlight of like minds
+3.    Saved  allows and shows highlight of like minds
 
 ![saved](/Second/Glasp_Images/Saves.png)
 
-*Kindle* Sync and import all your notes higlight from Kindle
+4. Kindle Sync and import all your notes higlight from Kindle
 
 ![Kindle](/Second/Glasp_Images/Kindle.png)
 
-*Videos* Higlight Youtube videoes without transcripting manually
+5. Videos Higlight Youtube videoes without transcripting manually
 
 ![videos](/Second/Glasp_Images/Videos.png)
 
-*Document* Format Choose which format to download  your document as
+6. Document Format Choose which format to download  your document as
 
 ![Doc](/Second/Glasp_Images/Format.png)
 
@@ -180,13 +177,18 @@ Shows your favorite higligts and find people with same interest
 
 
 
-## The Share,Notifications and Profile Button
-
-The share: 
-      
 
 
+## Additional Resources
+      Here is a list of resources to help you whiile using Glasp
 
+   *  [Articles](https://glasp.co/articles/) written by the Glasp team
 
+   *  The Glasp [Newsletter](https://glasp.co/newsletter/)
 
+   *  The [UseCase](https://glasp.co/usecase/) showing spotlight on Glaspers
+
+   * How to glasp [tutorial video](https://www.youtube.com/watch?v=Tgbszoeokv4)
+ 
+   *  Join [Glasp Community](https://glasp-community.slack.com/join/)
        
